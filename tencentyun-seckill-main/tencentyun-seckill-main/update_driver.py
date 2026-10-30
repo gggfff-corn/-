@@ -6,7 +6,7 @@ import requests
 import subprocess
 
 # ================= 配置区域 =================
-TARGET_DIR = r"E:\yiban\yiban"  # 驱动存放根目录
+TARGET_DIR = os.path.dirname(os.path.abspath(__file__))   # 驱动存放根目录
 DRIVER_NAME = "msedgedriver.exe"
 # ===========================================
 
