@@ -1,4 +1,4 @@
-# tencentyun-seckill
+# 腾讯云轻量服务器脚本
 
 腾讯云轻量应用服务器秒杀脚本：扫码登录 → 库存检测 → 并发抢购 → 抢到弹付款。
 目标商品：`featured-202607` 会场轻量 4 核 4G（`bundle_budget_mc_lg4_01`）。
